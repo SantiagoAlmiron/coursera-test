@@ -1,0 +1,164 @@
+h1 {
+	text-align: center;
+}
+h2 {
+	background-color: yellow;
+	border: solid black;
+	font-size: 70%;
+	width: 500px;
+	text-align: center;
+}
+
+@media (min-width: 1024px) {
+h2 {
+	position: relative;
+	left: 295px;
+}
+.texto {
+		border: 1px solid black;		
+		text-align: center;
+		margin: 20px 10px 0px 20px;
+		float: right;
+		background-color: #d5e1df;
+		height: 335px;
+}
+.pollo, .churrasco , .sushi {
+		border: 1px solid;
+		width: 100px;
+		float: right;
+		margin: 0px 0px 10px 10px;
+}
+
+.churrasco {
+			background-color: #D63917;
+}
+.sushi {
+		background-color: #F5F598;
+}
+.pollo {
+	 	background-color: #E58A1D;
+}
+.clear {
+		clear: right;
+}
+.contenedor1 {
+             width: 300px;
+}
+.contenedor2 {
+			 width: 300px;
+}
+.contenedor3 {
+             width: 300px;
+}
+}
+@media (min-width: 814px) and (max-width: 1023px){
+h2 {
+	position: relative;
+	left: 230px;
+}
+.clear {
+		clear: right;
+}
+.texto {
+		border: 1px solid black;
+		text-align: center;
+		margin: 20px 85px 0px 0px;
+		float: right;
+		background-color: #d5e1df;
+		height: 200px;
+		overflow: auto;
+	    }
+.pollo, .churrasco , .sushi {
+		border: 1px solid;
+		width: 100px;
+		float: right;
+		margin: 0px 0px 10px 10px;
+		}
+.churrasco {
+			background-color: #D63917;
+}
+.sushi {
+		background-color: #F5F598;
+}
+.pollo {
+	 	background-color: #E58A1D;
+}
+.contenedor1 {
+	width: 180px;
+}
+.contenedor2 {
+	width: 180px;
+}
+.contenedor3 {
+	width: 480px;
+}	
+}
+
+@media (min-width: 425px) and (max-width: 813px) {
+h2 { overflow: auto; }
+.clear {
+		clear: right;
+}
+.texto {
+		border: 1px solid black;
+		text-align: center;
+		margin: 20px 55px 0px 0px;
+		float: right;
+		background-color: #d5e1df;
+		height: 200px;
+		overflow: auto;
+	    }
+.pollo, .churrasco , .sushi {
+		border: 1px solid;
+		width: 100px;
+		float: right;
+		margin: 0px 0px 10px 10px;
+		}
+.churrasco {
+			background-color: #D63917;
+}
+.sushi {
+		background-color: #F5F598;
+}
+.pollo {
+	 	background-color: #E58A1D;
+}
+.contenedor1 {
+	width: 125px;
+}
+.contenedor2 {
+	width: 125px;
+}
+.contenedor3 {
+	width: 325px;
+}
+
+} /*Small devices*/
+@media (min-width: 0px) and (max-width: 424px) {
+.texto {
+		border: 1px solid black;		
+		text-align: center;
+		margin: 20px 10px 0px 20px;
+		float: right;
+		background-color: #d5e1df;
+		height: 335px;
+}
+.pollo, .churrasco , .sushi {
+		border: 1px solid;
+		width: 100px;
+		float: right;
+		margin: 0px 0px 10px 10px;
+}
+
+.churrasco {
+			background-color: #D63917;
+}
+.sushi {
+		background-color: #F5F598;
+}
+.pollo {
+	 	background-color: #E58A1D;
+}
+.clear {
+		clear: right;
+}
