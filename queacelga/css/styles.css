@@ -1,0 +1,210 @@
+/* Esto es el cabezal*/
+
+* {
+	box-sizing: 0px;
+	margin: 0px;
+	padding: 0px;
+    background-color: #E6FF8A;
+}
+
+.cajatexto {
+    position: absolute;
+    top: 16vw;
+    left: 37vw;
+    font-family: 'Dancing Script', cursive;
+    background-color: none;
+}
+.milanesas {
+    text-align: center;
+    font-size: 2.5vw;
+    padding: 5px;
+}
+
+.nr {
+    text-align: center;
+    font-size: 2.5vw;
+    padding: 5px;
+}
+
+.ul {
+    font-size: 2vw;
+    position: absolute;
+    left: 5.5vw;
+}
+
+.cyr {
+   text-align: center;
+   font-size: 2vw;
+}
+
+.titulolista {
+    font-size: 3.5vw;
+    padding: 10px;
+}
+
+.cabezal {
+    background-color: #9cab64;
+    height: 9vw;
+    width: all;
+    border: 1px solid black;
+}
+.slogan {
+    color: white;
+    position: absolute;
+    right: 10vw;
+    top: 2vw;
+    font-size: 3.7vw;
+    font-family: 'Dancing Script', cursive;
+    background-color: #9cab64;
+    text-shadow: 0.5px 0.5px 0 #000,
+    -0.5px 0.5px 0 #000,
+    0.5px -0.5px 0 #000,
+    -0.5px -0.5px 0 #000,
+    0px 0.5px 0 #000,
+    0px -0.5px 0 #000,
+    -0.5px 0px 0 #000,
+    0.5px 0px 0 #000,
+    1px 1px 0 #000,
+    -1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000,
+    0px 1px 0 #000,
+    0px -1px 0 #000,
+    -1px 0px 0 #000,
+    1px 0px 0 #000,
+    0.5px 1px 0 #000,
+    -0.5px 1px 0 #000,
+    0.5px -1px 0 #000,
+    -0.5px -1px 0 #000,
+    1px 0.5px 0 #000,
+    -1px 0.5px 0 #000,
+    1px -0.5px 0 #000,
+    -1px -0.5px 0 #000;
+}
+
+.titulocabezal {
+	color: white;
+	font-size: 6vw;
+	font-family: 'Dancing Script', cursive;
+	position: absolute;
+	left: 5vw;
+	top: 0.4vw;
+	margin: 0px;
+	padding: 0px;
+	background-color: #9cab64;
+	text-shadow: 0.5px 0.5px 0 #000,
+    -0.5px 0.5px 0 #000,
+    0.5px -0.5px 0 #000,
+    -0.5px -0.5px 0 #000,
+    0px 0.5px 0 #000,
+    0px -0.5px 0 #000,
+    -0.5px 0px 0 #000,
+    0.5px 0px 0 #000,
+    1px 1px 0 #000,
+    -1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000,
+    0px 1px 0 #000,
+    0px -1px 0 #000,
+    -1px 0px 0 #000,
+    1px 0px 0 #000,
+    0.5px 1px 0 #000,
+    -0.5px 1px 0 #000,
+    0.5px -1px 0 #000,
+    -0.5px -1px 0 #000,
+    1px 0.5px 0 #000,
+    -1px 0.5px 0 #000,
+    1px -0.5px 0 #000,
+    -1px -0.5px 0 #000;
+}
+
+.wsp {
+    height: 3vw;
+    width: 3vw;
+    background-color: transparent;
+    position: relative;
+    top: 0.7vw;
+    padding: 0vw 0vw 0vw 0vw;
+    margin-top:0px
+}
+
+.whatsapp {
+    margin-top: 0vw;
+    padding: 0vw 0.6vw 0vw 0vw;
+    border-radius: 5px;
+	position: relative;
+    top: 1.5vw;
+	margin: 0px;
+	left: 10.05vw;
+	font-size: 2vw;
+    font-family: 'Oswald', sans-serif;
+	color: white;
+    background-color: #00bb2d;
+    text-decoration: none;
+}
+
+.intg {
+    height: 2.7vw;
+    width: 2.7vw;
+    background-color: transparent;
+    position: relative;
+    top: 0.50vw;
+    padding: 0vw 0.3vw 0vw 0vw;
+}
+
+.Instagram {
+    border-radius: 5px;
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+	position: relative;
+    left: 57.5vw;
+    top: 1.5vw;
+	text-decoration: none;
+	font-size: 2vw;
+	margin: 0px;
+	padding: 0vw 0.6vw 0vw 0.2vw;
+    font-family: 'Oswald', sans-serif;
+	color: white;
+    background-color: #9cab64;
+}
+
+.fbook{
+    height: 3vw;
+    width: 3vw;
+    background-color: transparent;
+    position: relative;
+    top: 0.7vw;
+    padding: 0vw 0vw 0vw 0vw;
+}
+
+.Facebook {
+    border-radius: 5px;
+	font-size: 2vw;
+	text-decoration: none;
+	position: relative;
+    left: 33.95vw;
+    top:1.5vw;
+	margin: 0px;
+	padding: 0vw 0.6vw 0vw 0vw;
+    font-family: 'Oswald', sans-serif;
+	color: white;
+    background-color: #3b5998;
+}
+
+.acelga {
+    position: absolute;
+    top: 9.185vw;
+    left: 0vw;
+    width: 25vw;
+    height: 25vw;
+}
+
+.acelga2 {
+    position: absolute;
+    top: 9.185vw;
+    right: 0vw;
+    width: 25vw;
+    height: 25vw;
+}
+
+
+

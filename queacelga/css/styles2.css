@@ -1,0 +1,49 @@
+.sobrenosotras {
+     width: all;
+    height: 20vw;
+}
+
+.sn {
+	background-color: transparent;
+	position: relative;
+	top: 5vw;
+	font-family: 'Dancing Script', cursive;
+	font-size: 5vw;
+	text-align: center;
+}
+
+.texto1 {
+	font-size: 2vw;
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	position: relative;
+	left: 38.20vw;
+	top: 8vw;
+	background-color: transparent;
+	width: 21.96vw;
+}
+
+.dosamigas {
+	text-decoration: underline;
+	font-family: 'Dancing Script', cursive;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	top: 7vw;
+	font-size: 2.5vw;
+}
+
+.milanesauno {
+	width: 25vw;
+    height: 25vw;
+    position: relative;
+    top: 1.05vw;
+}
+
+.milanesados {
+	width: 25vw;
+    height: 25vw;
+    position: absolute;
+    right: 0vw;
+    top:  33.97vw;
+}
