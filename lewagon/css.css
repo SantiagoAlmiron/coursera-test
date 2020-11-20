@@ -113,6 +113,7 @@ a {
 	position: relative;
 	top:  1.46vw;
 	left: 1.83vw;
+	border-radius: 5px;
 }
 
 .paris {
@@ -130,6 +131,7 @@ a {
 	position: relative;
 	top:  1.46vw;
 	left: 1.83vw;
+	border-radius: 5px;
 }
 
 .fotochina {
@@ -137,6 +139,7 @@ a {
 	position: relative;
 	top:  1.46vw;
 	left: 1.83vw;
+	border-radius: 5px;
 }
 
 .subtitulo1 {
